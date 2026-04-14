@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modul7_Kelompok Radit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9fbbbe6787482769e1959fec20170ae179feb5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+741334e058e0795262af2535c0772c8c943ad146")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modul7_Kelompok Radit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modul7_Kelompok Radit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

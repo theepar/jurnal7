@@ -7,3 +7,6 @@ test.ReadJson();
 
 Watchlist_103022400063 test2 = new Watchlist_103022400063();
 test2.ReadJSON();
+
+GenreDictionary_103022400063 test3 = new GenreDictionary_103022400063();
+test3.ReadJSON();
