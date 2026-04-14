@@ -1,0 +1,9 @@
+{
+    "title": "Spongebob The Movie",
+    "director": "John Doe",
+    "year": "2019",
+    "genre": "Comedy",
+    "rating": 9,
+    "durationMinutes": 120,
+    "isWatched": true
+}
