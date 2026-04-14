@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Modul7_Kelompok Radit\\Modul7_Kelompok Radit.csproj",
+      "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal7\\Modul7_Kelompok Radit.csproj",
       "projectName": "Modul7_Kelompok Radit",
-      "projectPath": "D:\\Modul7_Kelompok Radit\\Modul7_Kelompok Radit.csproj",
+      "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal7\\Modul7_Kelompok Radit.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-      "outputPath": "D:\\Modul7_Kelompok Radit\\obj\\",
+      "outputPath": "C:\\Users\\PRAKTIKAN\\Downloads\\jurnal7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
