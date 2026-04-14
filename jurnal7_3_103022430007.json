@@ -1,0 +1,13 @@
+{
+        "category": "Movie Genre",
+        "GenreInfo": {
+            "id": "G01",
+            "name": "Comedy",
+            "description": "Genre that goes haha",
+            "popularMovies": [
+                "Spongebob the Movie",
+                "Titanic",
+                "Mr. Bean"
+            ]
+        }
+}

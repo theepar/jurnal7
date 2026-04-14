@@ -4,5 +4,8 @@ using Modul7_Kelompok_Radit;
 //FilmFavorit_103022430007 f = new FilmFavorit_103022430007();
 //f.ReadJSON();
 
-Watchlist_103022430007 w = new Watchlist_103022430007();
-w.ReadJson();
+//Watchlist_103022430007 w = new Watchlist_103022430007();
+//w.ReadJson();
+
+GenreDictionary_103022430007 g = new GenreDictionary_103022430007();
+g.ReadJson();
