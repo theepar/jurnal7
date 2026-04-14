@@ -4,3 +4,6 @@ using Modul7_Kelompok_Radit;
 
 FilmFavorit_103022400063 test = new FilmFavorit_103022400063();
 test.ReadJson();
+
+Watchlist_103022400063 test2 = new Watchlist_103022400063();
+test2.ReadJSON();
