@@ -1,0 +1,15 @@
+D:\Modul7_Kelompok Radit\obj\Debug\net10.0\Modul7_Kelompok Radit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modul7_Kelompok Radit\obj\Debug\net10.0\Modul7_Kelompok Radit.AssemblyInfoInputs.cache
+D:\Modul7_Kelompok Radit\obj\Debug\net10.0\Modul7_Kelompok Radit.AssemblyInfo.cs
+D:\Modul7_Kelompok Radit\obj\Debug\net10.0\Modul7_Kelompok Radit.csproj.CoreCompileInputs.cache
+D:\Modul7_Kelompok Radit\obj\Debug\net10.0\Modul7_Kelompok Radit.sourcelink.json
+D:\Modul7_Kelompok Radit\bin\Debug\net10.0\Modul7_Kelompok Radit.exe
+D:\Modul7_Kelompok Radit\bin\Debug\net10.0\Modul7_Kelompok Radit.deps.json
+D:\Modul7_Kelompok Radit\bin\Debug\net10.0\Modul7_Kelompok Radit.runtimeconfig.json
+D:\Modul7_Kelompok Radit\bin\Debug\net10.0\Modul7_Kelompok Radit.dll
+D:\Modul7_Kelompok Radit\bin\Debug\net10.0\Modul7_Kelompok Radit.pdb
+D:\Modul7_Kelompok Radit\obj\Debug\net10.0\Modul7_Kelompok Radit.dll
+D:\Modul7_Kelompok Radit\obj\Debug\net10.0\refint\Modul7_Kelompok Radit.dll
+D:\Modul7_Kelompok Radit\obj\Debug\net10.0\Modul7_Kelompok Radit.pdb
+D:\Modul7_Kelompok Radit\obj\Debug\net10.0\Modul7_Kelompok Radit.genruntimeconfig.cache
+D:\Modul7_Kelompok Radit\obj\Debug\net10.0\ref\Modul7_Kelompok Radit.dll

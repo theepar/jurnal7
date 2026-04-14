@@ -1,7 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
-using Modul7_Kelompok_Radit;
+﻿FilmFavorit_103022400016 filmdeva = new FilmFavorit_103022400016();
+filmdeva.ReadJSON();
+Watchlist_103022400016 watchdeva = new Watchlist_103022400016();
+watchdeva.ReadJSON();
+GenreDictionary_103022400016 genredeva = new GenreDictionary_103022400016();
+genredeva.ReadJSON();
 
 FilmFavorit_103022400023 f = new FilmFavorit_103022400023();
 f.ReadJSON();
