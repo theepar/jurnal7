@@ -29,6 +29,9 @@ namespace Modul7_Kelompok_Radit
                 string jsonString = File.ReadAllText(filePath);
                 Film f = JsonSerializer.Deserialize<Film>(jsonString);
                 Console.WriteLine($"{f.title} ({f.year} - {f.rating}), genre: {f.genre}");
+                Console.WriteLine($"directior : {f.director}");
+                Console.WriteLine($"duration : {f.durationMinutes}");
+                Console.WriteLine($"is Watched : {f.isWatched}");
             }
             else
             {
