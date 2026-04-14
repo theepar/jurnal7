@@ -1,10 +1,9 @@
 {
-  "title": "<NAMA FILM>",
-  "director": "<NAMA DIRECTOR>",
-  "year": "<TAHUN>",
-  "genre": "<GENRE>",
-  "rating": "<RATING>",
-  "durationMinutes": "<DURASI>",
-  "isWatched": "<TRUE",
-  "OR" "FALSE>"
+  "title": "devano omaka jana",
+  "director": "Deva",
+  "year": 1999,
+  "genre": "romance",
+  "rating": 4.9,
+  "durationMinutes": 120,
+  "isWatched": true
 }
