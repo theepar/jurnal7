@@ -6,3 +6,8 @@ Console.WriteLine("");
 
 Watchlist_103022400083 watchlist = new Watchlist_103022400083();
 watchlist.ReadJSON();
+
+Console.WriteLine("");
+
+GenreDictionary_103022400083 genreDictionary = new GenreDictionary_103022400083();
+genreDictionary.ReadJSON();
